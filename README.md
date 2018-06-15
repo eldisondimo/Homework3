@@ -44,6 +44,6 @@ $ cd Cluster/bin
 $ ./Cluster pointcloud.pcl
 ```
 
-### Immagini della pointcloud
-![foto1](point_clud.png "foto1")
+### Risultati
+![foto1](point_cloud.png "foto1")
 ![foto2](cluster.png "foto2")
