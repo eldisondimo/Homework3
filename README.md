@@ -35,6 +35,7 @@ Per poter visualizzare questi punti usare il comando <i>pcl_viewer</i><br>
 ```console
 $ pcl_viewer pointcloud.pcl
 ```
+![foto1](point_cloud.png "foto1")
 
 ## Istruzioni per il clustering
 1. Spostare il file <b>pointcloud.pcl</b> nella cartella <i>bin</i> contenuta in <i>Cluster</i><br>
@@ -43,7 +44,4 @@ $ pcl_viewer pointcloud.pcl
 $ cd Cluster/bin
 $ ./Cluster pointcloud.pcl
 ```
-
-### Risultati
-![foto1](point_cloud.png "foto1")
 ![foto2](cluster.png "foto2")
